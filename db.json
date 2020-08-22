@@ -1,7 +1,9 @@
 [
     {
-        "name": "UmarGit",
-        "age": "21",
-        "occupation": "Software Enginner"
+        "My_Details": {
+            "name": "UmarGit",
+            "age": "21",
+            "occupation": "Software Enginner"
+        }
     }
 ]
