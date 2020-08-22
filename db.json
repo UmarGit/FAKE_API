@@ -1,9 +1,21 @@
-[
-    {
-        "My_Details": {
-            "name": "UmarGit",
-            "age": "21",
-            "occupation": "Software Enginner"
+{
+    "My_Details": {
+        "name": "UmarGit",
+        "age": "21",
+        "occupation": "Software Enginner"
+    },
+    "My_Projects": [
+        {
+            "name": "Vue Js Applcaition"
+        },
+        {
+            "name": "React Js Applcaition"
+        },
+        {
+            "name": "Javascript Applcaition"
+        },
+        {
+            "name": "Angular Js Applcaition"
         }
-    }
-]
+    ]
+}
